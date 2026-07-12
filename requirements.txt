@@ -1,0 +1,11 @@
+unsloth
+transformers==4.56.2
+trl==0.22.2
+pymupdf
+datasets
+torch
+huggingface-hub
+pandas
+accelerate
+peft
+xformers
